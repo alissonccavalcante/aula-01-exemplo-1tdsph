@@ -1,5 +1,9 @@
+#🚀 Meu Primeiro Repositório
+**teste de conflito**
 # XXXXXXXXXXXXXXXXXXX
- 
+# YYYYYYYYYYYYYYYYYYY 
+**teste de conflito**
+
 Olá, mundo! 👋
  
 Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
